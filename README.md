@@ -44,10 +44,10 @@ Examples of Data Science topics explained well.
     
 # Other reading
 **Thing Explainer: Complicated Stuff in Simple Words** - Randall Munroe  
-> _Check your local library_  
+> **_Check your local library_**  
 > https://www.amazon.com/gp/product/0544668251  
 > https://www.barnesandnoble.com/w/thing-explainer-randall-munroe/1121864432#/  
 > https://www.indiebound.org/book/9780544668256  
-> https://www.hudsonbooksellers.com/thingexplainer
+> https://www.hudsonbooksellers.com/thingexplainer  
 > http://www.booksamillion.com/p/Thing-Explainer/Randall-Munroe/9780544668256
 
