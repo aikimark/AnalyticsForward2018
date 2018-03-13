@@ -10,12 +10,15 @@ The Feynman Technique
     <https://www.kdnuggets.com/2018/01/data-scientist-feynman-technique.html>
 
 Andy Hunt's excellent book. Get your discount while you can.  
-    **Pragmatic Thinking and Learning: Refactor Your Wetware**
+
+    **Pragmatic Thinking and Learning: Refactor Your Wetware**  
+    https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning
 
 The video I quoted.  The quote happens around 30:00.  The entire video is worth watching.  
     <https://www.youtube.com/watch?v=iDf6SdhT758>
 
 # Competency links and images:  
+
     <https://en.wikipedia.org/wiki/Four_stages_of_competence>  
     <https://www.slideshare.net/igorkokcharov/kokcharov-skillpyramid2015>
 
@@ -25,8 +28,10 @@ The video I quoted.  The quote happens around 30:00.  The entire video is worth 
 
 Examples of Data Science topics explained well.
 * Clustering  
+
   <https://home.deib.polimi.it/matteucc/Clustering/tutorial_html/>  
 * ML Methods (explaining with pictures and words)  
+
   <http://usblogs.pwc.com/emerging-technology/machine-learning-methods-infographic/>  
   <https://www.datasciencecentral.com/profiles/blogs/decoding-machine-learning-methods>
     
