@@ -22,8 +22,8 @@ The video I quoted.  The quote happens around 30:00.  The entire video is worth 
 
 # Exercise hand-outs
 **20 Interview questions document in this github repository**
-> Source - https://www.kdnuggets.com/2016/01/20-questions-to-detect-fake-data-scientists.html
-> Answers pt1 - https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html
+> Source - https://www.kdnuggets.com/2016/01/20-questions-to-detect-fake-data-scientists.html  
+> Answers pt1 - https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html  
 > Answers pt2 - https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers-part2.html
 
 **17 More Must-Know Data Science Interview Questions and Answers**
