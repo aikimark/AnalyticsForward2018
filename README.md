@@ -32,10 +32,12 @@ Examples of Data Science topics explained well.
     https://www.datasciencecentral.com/profiles/blogs/decoding-machine-learning-methods
     
 # Other reading
-Thing Explainer: Complicated Stuff in Simple Words - Randall Munroe  
-	* Check your local library  
-	https://www.amazon.com/gp/product/0544668251  
-	https://www.barnesandnoble.com/w/thing-explainer-randall-munroe/1121864432#/  
-	https://www.indiebound.org/book/9780544668256  
-	https://www.hudsonbooksellers.com/thingexplainer
-	http://www.booksamillion.com/p/Thing-Explainer/Randall-Munroe/9780544668256
+**Thing Explainer: Complicated Stuff in Simple Words** - Randall Munroe  
+<div>
+*Check your local library*  
+https://www.amazon.com/gp/product/0544668251  
+https://www.barnesandnoble.com/w/thing-explainer-randall-munroe/1121864432#/  
+https://www.indiebound.org/book/9780544668256  
+https://www.hudsonbooksellers.com/thingexplainer
+http://www.booksamillion.com/p/Thing-Explainer/Randall-Munroe/9780544668256
+</div>
