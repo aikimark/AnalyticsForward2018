@@ -1,5 +1,5 @@
 # AnalyticsForward2018
-References, notes, and material attributions for the *How to Learn Data Science (and Other Things)* session.
+References, notes, and material attributions for the *How to Learn Data Science (and Other Things)* session.  
 Presented 2018-03-10 by Mark Hutchinson
 
 # Inspirations for the presentation
@@ -34,7 +34,7 @@ The video I quoted.  The quote happens around 30:00.  The entire video is worth 
 **Top Firms Data Science Interview Questions**
 > https://www.kdnuggets.com/2017/03/top-firms-100-data-science-interview-questions.html
 
-Examples of Data Science topics explained well.
+**Examples of Data Science topics explained well**
 * Clustering  
 > https://home.deib.polimi.it/matteucc/Clustering/tutorial_html/
 
@@ -50,4 +50,3 @@ Examples of Data Science topics explained well.
 > https://www.indiebound.org/book/9780544668256  
 > https://www.hudsonbooksellers.com/thingexplainer  
 > http://www.booksamillion.com/p/Thing-Explainer/Randall-Munroe/9780544668256
-
